@@ -3,7 +3,7 @@
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
-  CURLOPT_URL => '',
+  CURLOPT_URL => 'https://c171f4c609be2f7660c611505e7f676c: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@primary-dressinventory.myshopify.com/admin/api/unstable/graphql.json',
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => '',
   CURLOPT_MAXREDIRS => 10,
